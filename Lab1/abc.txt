@@ -1,3 +1,1 @@
-Hello I am Thuan
-Ho Chi Minh City
-Hello
+echo "Hello I am Thuan"
