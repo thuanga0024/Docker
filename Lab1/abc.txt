@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello I am Thuan, 24 year old"
+echo "Hello I am Thuan"
